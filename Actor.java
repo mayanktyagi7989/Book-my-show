@@ -1,4 +1,4 @@
-package dev.aman.bookmyshow.Models;
+package tyagi.mayank.bookmyshow.Models;
 
 import jakarta.persistence.Entity;
 import lombok.Getter;
