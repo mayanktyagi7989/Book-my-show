@@ -1,4 +1,4 @@
-package dev.aman.bookmyshow.Configuration;
+package tyagi.mayank.bookmyshow.Configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
